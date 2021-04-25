@@ -1,4 +1,4 @@
-Floor Plans for Delisle 1 Project
+**Floor Plans for Delisle 1 Project**
 
 <img src="1b_d.PNG">
 <img src="1br+j.PNG">
@@ -6,6 +6,7 @@ Floor Plans for Delisle 1 Project
 <img src="2b_c(2).PNG">
 <img src="2b_f(2).PNG">
 <img src="2b_h(3).PNG">
+<img src="2b_i.PNG">
 <img src="b_ph_a.PNG">
 <img src="2bpha.PNG">
 <img src="2bq.PNG">
