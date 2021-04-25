@@ -1,5 +1,1 @@
-https://github.com/RiseUpRealty/Delisle1/blob/main/1b_d.PNG
-https://github.com/RiseUpRealty/Delisle1/blob/main/1br%2Bj.PNG
-https://github.com/RiseUpRealty/Delisle1/blob/main/2b_a.PNG
-https://github.com/RiseUpRealty/Delisle1/blob/main/2b_c(2).PNG
-https://github.com/RiseUpRealty/Delisle1/blob/main/2b_f(2).PNG
+,img src="1b_d.PNG".
