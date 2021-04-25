@@ -1,6 +1,6 @@
             Floor Plans for Delisle One Project
 
-<img src="City - Floorplans.png">
+<img src="City - Floorplans.PNG">
 <img src="1br+j.PNG">
 <img src="2b_a.PNG">
 <img src="2b_c(2).PNG">
